@@ -14,3 +14,4 @@ dependency2 : ; touch dependency2
 	@echo Dollar Sign: $$\$$ $$ >> $@
 	@echo Gets the parent directory: $$\(\<D\) $(<D) >> $@
 	@echo "Check out the file "$@""
+#redo
