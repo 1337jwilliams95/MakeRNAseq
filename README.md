@@ -1,4 +1,5 @@
-Maake-based RNA-seq Analysis Workflow
+poop
+Make-based RNA-seq Analysis Workflow
 ====================================================
 
 Prerequisites
